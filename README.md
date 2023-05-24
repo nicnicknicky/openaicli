@@ -29,6 +29,10 @@
 
 ## Releases
 
+Done by [GoReleaser](https://goreleaser.com/quick-start/) through [GitHub Actions](https://goreleaser.com/ci/actions/).
+
+- [v1.0.0](https://github.com/nicnicknicky/openaicli/releases)
+
 ## Resources and References
 
 ### Demo GIF Recording
